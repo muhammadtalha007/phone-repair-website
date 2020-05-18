@@ -203,7 +203,7 @@
                                     </ul>
                                 </li>
 
-                                <li><a href="contact.html" title="Contact">CONTACT</a></li>
+                                <li><a href="{{URL::to('')}}/contact-us" title="Contact">CONTACT</a></li>
 
                             </ul>
                         </div>
