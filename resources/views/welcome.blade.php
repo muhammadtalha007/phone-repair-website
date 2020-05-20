@@ -284,7 +284,6 @@
                         </h4>
                         <p>
                             Get your device repaired quickly by our experts and professionals and we promise to deliver the quality work to you.
-                            Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
                         </p>
                     </div> <!-- end .col-sm-12  -->
 
@@ -376,7 +375,7 @@
                 <div class="process-step-1 block-primary-bg wow fadeIn theme-custom-box-animation theme-custom-box-shadow" data-wow-delay="0.20s">
 
 
-                    <i class="fa fa-laptop text-light-color"></i>
+                    <i class="fa fa-mobile-alt text-light-color"></i>
                     <h3 class="text-light-color">
                         Bring The Device
                     </h3>
