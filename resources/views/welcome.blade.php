@@ -576,10 +576,10 @@
         <div class="row">
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <h2 class="text-light-color">
-                    Do you need assistance to repair your computer?
+                    Do you need assistance to repair your mobile?
                 </h2>
                 <p>
-                    We will happy to serve our best to you. Just bring your valuable desktop, laptop, Macbook, tab or gaming computer. Our experts will be happy to assist you.
+                    We will happy to serve our best to you. Just bring your valuable phone device. Our experts will be happy to assist you.
 
                 </p>
             </div> <!--  end .col-md-8  -->
