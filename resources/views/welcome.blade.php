@@ -363,8 +363,7 @@
 
             <div class="col-md-8 offset-md-2 col-sm-12 col-sm-offset-0 text-center">
                 <h4>How It Works?</h4>
-                <span class="heading-separator"></span>
-                <h2>THREE STEPS SOLUTION</h2>
+                <h2 style="color: cornflowerblue">THREE STEPS SOLUTION</h2>
             </div> <!-- end .col-sm-12  -->
 
         </div>
@@ -485,10 +484,6 @@
             <div class="col-md-12 col-sm-12 text-center">
                 <h4 class="heading-alt-style text-capitalize">Customers Opinion</h4>
                 <span class="heading-separator heading-separator-horizontal"></span>
-                <h2 class="subheading-alt-style pl-lg-5 pl-0 pr-lg-5 pr-0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut laoreet orci tortor, sed dignissim urna ullamcorper sit amet.
-                </h2>
-
             </div> <!-- end .col-sm-12  -->
 
         </div>
