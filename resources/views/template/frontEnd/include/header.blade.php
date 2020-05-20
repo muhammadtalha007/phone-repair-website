@@ -6,9 +6,9 @@
 <!-- Mirrored from templates.bwlthemes.com/smart_fix/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 May 2020 17:20:53 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>SmartFix - Computer Repair Center HTML5 Template</title>
+    <title>SmartFix - Phone Repair Center HTML5 Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="SmartFix - Computer Repair Center HTML5 Template">
+    <meta name="description" content="SmartFix - Phone Repair Center HTML5 Template">
     <meta name="author" content="xenioushk">
     {{--<link rel="shortcut icon" href="images/favicon.png" />--}}
     <link href="{{ asset('images/favicon.png') }}" rel="shortcut icon" type='text/css'/>

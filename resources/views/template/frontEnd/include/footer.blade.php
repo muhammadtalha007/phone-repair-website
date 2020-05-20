@@ -18,7 +18,7 @@
                                     <a href="#">
                                         <img src="{{ asset('images/logo.png') }}" alt="" class="footer-logo img-responsive">
                                     </a>
-                                    <p class="clearfix text-dark-color">Smart Fix offers professional computer and laptop repair services at our retail locations throughout the world. </p>
+                                    <p class="clearfix text-dark-color">Smart Fix offers professional mobile repair services at our retail locations throughout the world. </p>
                                 </div>
 
                                 <div class="social-icons margin-top-24  text-light-color">
